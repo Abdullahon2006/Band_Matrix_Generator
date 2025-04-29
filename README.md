@@ -8,7 +8,7 @@ For an n×n matrix:
 - `0` appears when |row - column| > width
 - Elements are separated by two spaces
 
-##Example:
+## Example:
 <blockquote>
 <IMG SRC="band-matrix.png" width = 200 alt = "Band matrix">
 </blockquote>
